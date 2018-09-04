@@ -1,2 +1,1 @@
-# krolik
-Krolik Theme for Jekyll
+# Krolik Theme for Jekyll
